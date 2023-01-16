@@ -8,3 +8,5 @@ Kayıt
 CoreData record and read
 pin atama
 navigasyon
+
+written with XCode V13.2 on BigSur
